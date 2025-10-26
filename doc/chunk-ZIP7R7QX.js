@@ -1,0 +1,1 @@
+import{ta as o}from"./chunk-4FDI3AVO.js";var a=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-about"]],decls:0,vars:0,template:function(e,s){},encapsulation:2})};export{a as About};
